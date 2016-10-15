@@ -1,0 +1,110 @@
+\begin{thebibliography}{10}
+
+\bibitem{asoh2010analysis}
+Hideki Asoh, Yoichi Motomura, and Chihiro Ono.
+\newblock An analysis of differences between preferences in real and supposed
+  contexts.
+\newblock In {\em Proceedings of the 2010 workshop on context-aware recommender
+  systems}, 2010.
+
+\bibitem{baltrunas2012context}
+Linas Baltrunas, Bernd Ludwig, Stefan Peer, and Francesco Ricci.
+\newblock Context relevance assessment and exploitation in mobile recommender
+  systems.
+\newblock {\em Personal and Ubiquitous Computing}, 16(5):507--526, 2012.
+
+\bibitem{bermingham2010classifying}
+Adam Bermingham and Alan~F Smeaton.
+\newblock Classifying sentiment in microblogs: is brevity an advantage?
+\newblock In {\em Proceedings of the 19th ACM international conference on
+  Information and knowledge management}, pages 1833--1836. ACM, 2010.
+
+\bibitem{cadiz2009orchestrating}
+Alfredo C{\'a}diz, Sebasti{\'a}n Gonz{\'a}lez, and Kim Mens.
+\newblock Orchestrating context-aware systems: a design perspective.
+\newblock In {\em Proceedings of the first international workshop on
+  Context-aware software technology and applications}, pages 5--8. ACM, 2009.
+
+\bibitem{carlson2011wide}
+Darren Carlson and Andreas Schrader.
+\newblock A wide-area context-awareness approach for android.
+\newblock In {\em Proceedings of the 13th International Conference on
+  Information Integration and Web-based Applications and Services}, pages
+  383--386. ACM, 2011.
+
+\bibitem{dargie2011context}
+Waltenegus Dargie.
+\newblock Why is context-aware computing less successful?
+\newblock In {\em Proceedings of the 5th ACM International Workshop on
+  Context-Awareness for Self-Managing Systems}, pages 1--3. ACM, 2011.
+
+\bibitem{kahng2011ranking}
+Minsuk Kahng, Sangkeun Lee, and Sang-goo Lee.
+\newblock Ranking in context-aware recommender systems.
+\newblock In {\em Proceedings of the 20th international conference companion on
+  World wide web}, pages 65--66. ACM, 2011.
+
+\bibitem{konomi2011colocation}
+Shin'ichi Konomi.
+\newblock Colocation networks: exploring the use of social andgeographical
+  patterns in context-aware services.
+\newblock In {\em Proceedings of the 13th international conference on
+  Ubiquitous computing}, pages 565--566. ACM, 2011.
+
+\bibitem{kramar2011towards}
+Tom{\'a}{\v{s}} Kram{\'a}r.
+\newblock Towards contextual search: social networks, short contexts and
+  multiple personas.
+\newblock In {\em International Conference on User Modeling, Adaptation, and
+  Personalization}, pages 434--437. Springer, 2011.
+
+\bibitem{oku2010recommendation}
+Kenta Oku, Shinsuke Nakajima, Jun Miyazaki, Shunsuke Uemura, Hirokazu Kato, and
+  Fumio Hattori.
+\newblock A recommendation system considering users’ past/current/future
+  contexts.
+\newblock In {\em Proc. CARS}, 2010.
+
+\bibitem{park2011empirical}
+Hyun~Kyu Park, In~Ho Cho, Sook~Young Ji, and Joong~Seek Lee.
+\newblock An empirical study on web search behavior through the investigation
+  of a user-clustered query session.
+\newblock In {\em International and Interdisciplinary Conference on Modeling
+  and Using Context}, pages 233--245. Springer, 2011.
+
+\bibitem{pelleg2000x}
+Dan Pelleg, Andrew~W Moore, et~al.
+\newblock X-means: Extending k-means with efficient estimation of the number of
+  clusters.
+\newblock In {\em ICML}, volume~1, 2000.
+
+\bibitem{perse1998implications}
+Elizabeth~M Perse.
+\newblock Implications of cognitive and affective involvement for channel
+  changing.
+\newblock {\em Journal of Communication}, 48(3):49--68, 1998.
+
+\bibitem{rahnama2011campus}
+Hossein Rahnama, Sina Jamshidi, Stephen Johns, and Alan Shepard.
+\newblock Campus: context aware mobile platform for uniformed security.
+\newblock In {\em Proceedings of the 13th international conference on
+  Ubiquitous computing}, pages 489--490. ACM, 2011.
+
+\bibitem{riboni2011cosar}
+Daniele Riboni and Claudio Bettini.
+\newblock Cosar: hybrid reasoning for context-aware activity recognition.
+\newblock {\em Personal and Ubiquitous Computing}, 15(3):271--289, 2011.
+
+\bibitem{stefanis2014frequency}
+Vassileios Stefanis, Athanasios Plessas, Andreas Komninos, and John
+  Garofalakis.
+\newblock Frequency and recency context for the management and retrieval of
+  personal information on mobile devices.
+\newblock {\em Pervasive and Mobile Computing}, 15:100--112, 2014.
+
+\bibitem{zelenik2011news}
+Dusan Zelen{\'\i}k and M{\'a}ria Bielikov{\'a}.
+\newblock News recommending based on text similarity and user behaviour.
+\newblock In {\em WEBIST}, pages 302--307, 2011.
+
+\end{thebibliography}
